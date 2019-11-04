@@ -4,7 +4,7 @@ Para usar o login faça os seguintes downloads:
 
 - composer install
 - php artisan key:generate
-- php artisan make:migrate
+- php artisan migrate --seed
 
 
 ## Configuração de ligação com o BD
